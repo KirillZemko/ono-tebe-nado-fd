@@ -268,7 +268,7 @@ padding: 165px 0 0 50px;
 
 /* footer */
 
-.footer{
+.footer {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   margin: 180px 0 82px 0;
