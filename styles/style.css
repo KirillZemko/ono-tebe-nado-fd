@@ -4,7 +4,6 @@
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
-
   padding: 92px 50px 96px 50px;
 }
 
@@ -139,7 +138,7 @@ padding: 165px 0 0 50px;
 /* lots */
 
 .lots {
-  margin-top: 180px;
+  margin: 180px 24px 0 24px;
 }
 
 .lots__heading {
@@ -162,6 +161,7 @@ padding: 165px 0 0 50px;
 .lots__card-list-item {
   width: 334px;
   min-height: 596px;
+  flex-grow: 1;
 }
 
 .card-link {
