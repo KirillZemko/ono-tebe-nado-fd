@@ -162,9 +162,9 @@
 }
 
 .lots__card-list-item {
+  flex-grow: 1;
   width: 334px;
   min-height: 596px;
-  flex-grow: 1;
 }
 
 .card-link {
@@ -202,9 +202,9 @@
   font-weight: bold;
   font-size: 22px;
   line-height: 120%;
-  text-transform: uppercase;
   text-decoration: underline;
   text-underline-offset: 3px;
+  text-transform: uppercase;
 }
 
 .card__text {
@@ -232,6 +232,7 @@
   display: grid;
   grid-template-columns: 334px 1fr;
   margin-top: 120px;
+  padding-top: 35px;
 }
 
 .about__logo {
