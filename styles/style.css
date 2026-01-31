@@ -116,14 +116,14 @@
 
 .description__text {
   color: #FFFFFF;
+  font-weight: normal;
   font-size: 22px;
   line-height: 28px;
   text-transform: uppercase;
-  word-spacing: .9em;
 }
 
 .letter-spacing-extended {
-  letter-spacing: 0.9em;
+  word-spacing: .9em;
 }
 
 .bet-button {
