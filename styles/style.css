@@ -231,9 +231,9 @@
 .about {
   display: grid;
   grid-template-columns: 334px 1fr;
+  gap: 25px;
   margin: 120px 24px 0 24px;
   padding-top: 35px;
-  gap: 25px;
 }
 
 .about__logo {
