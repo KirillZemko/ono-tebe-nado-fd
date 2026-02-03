@@ -46,7 +46,13 @@
   justify-self: end;
 }
 
-.header__address {
+.address__link {
+  font-size: 18px;
+  line-height: 24.3px;
+  list-style: none;
+}
+
+.address__text {
   font-size: 18px;
   line-height: 24.3px;
   list-style: none;
